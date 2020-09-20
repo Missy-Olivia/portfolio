@@ -57,3 +57,6 @@ nav>ul>li>a:hover{
     text-decoration: none;
     color: wheat;
 }
+.links>a:hover{
+    color: green;
+}
