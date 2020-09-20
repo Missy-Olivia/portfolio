@@ -10,3 +10,12 @@ body{
     font-weight: bold;
     font-size: 2.5em;
 }
+.intro{
+
+    color:rgb(214, 207, 207);
+    font-weight: bold;
+    float:center;
+   
+    padding: 50px;
+    text-align: center;
+}
