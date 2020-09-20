@@ -15,7 +15,11 @@ body{
     color:rgb(214, 207, 207);
     font-weight: bold;
     float:center;
-   
     padding: 50px;
     text-align: center;
+}
+#one{
+    float: left;
+    padding-bottom: 10px;
+    border-radius: 200000px;
 }
