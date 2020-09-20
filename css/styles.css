@@ -5,5 +5,8 @@ body{
     background-repeat: no-repeat;
     backdrop-filter: blur(2px);
     font-family: 'Courier New', Courier, monospace;
-
+}
+#banner{
+    font-weight: bold;
+    font-size: 2.5em;
 }
