@@ -34,3 +34,6 @@ body{
 nav>ul{
     text-align: left;
 }
+nav>ul>li{
+    display: inline-block;
+}
