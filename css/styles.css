@@ -21,7 +21,7 @@ body{
 #one{
     float: left;
     padding-bottom: 10px;
-    border-radius: 200000px;
+    border-radius: 100%;
 }
 .two{
     color:rgb(214, 207, 207);
