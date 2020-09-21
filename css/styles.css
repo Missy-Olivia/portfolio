@@ -19,9 +19,11 @@ body{
     text-align: center;
 }
 #one{
+    height: 30%;
+    width: 30%;
     float: left;
-    padding-bottom: 10px;
-    border-radius: 100%;
+    padding: 0px 20px 20px 0px;
+    border-radius: 200%
 }
 .two{
     color:rgb(214, 207, 207);
@@ -29,7 +31,8 @@ body{
     font-size:1.2em;
 }
 .me{
-    padding-bottom: 150px;
+   float:right;
+    padding-bottom: 20px;
 }
 nav>ul{
     text-align: left;
